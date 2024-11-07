@@ -16,7 +16,7 @@ The **Consumer Purchase Behaviour Dashboard** offers an insightful analysis of c
    - **Insight**:
      - **High-Value Products**: **Snowy White Delights** leads in $ per customer at **$40.78**, showcasing its premium market position.
      - **Broad Appeal**: **Dark Gold Essence** and **Citrus Zest Bars** have the highest consumer numbers, indicating strong customer interest.
-     - **Low $ per Consumer with High Volume**: **Cocoa Cream Sip** has a lower $ per customer at **$29.95** but maintains significant customer numbers, indicating it caters to price-sensitive segments.
+     - **Low $ per Customer with High Volume**: **Cocoa Cream Sip** has a lower $ per customer at **$29.95** but maintains significant customer numbers, indicating it caters to price-sensitive segments.
      - **Loss-Making Product**: **Baker’s Delight Chips** has negative profit margins despite reasonable customer numbers, signaling a need for cost review or strategic repositioning.
    - **Recommendations**:
      - **Promote High-Revenue Products**: Focus on premium items like **Snowy White Delights** and **Nougat Crunch Bites** to drive higher $ per customer.
