@@ -33,13 +33,13 @@ The **Consumer Purchase Behaviour Dashboard** offers an insightful analysis of c
    - **Recommendation**: Implement customer loyalty programs to enhance repeat purchases and increase customer lifetime value.
 
 ## 📌 Key Steps Implemented:
-1️. **Data Importation** from Excel and web scraping to Power BI  
-2️. **Data Transformation** using Power Query Editor  
-3️. **Data Modeling** to establish relationships between data sources  
-4️. **Custom Columns & DAX Measures** for detailed analysis  
-5️. **Captivating Visual Analysis** including charts and KPIs  
-6️. **Thoughtful Background Design** tailored for the Handmade Chocolate Company  
-7️. **User-Friendly Layout** to engage technical and non-technical stakeholders  
+- **Data Importation** from Excel and web scraping to Power BI  
+- **Data Transformation** using Power Query Editor  
+- **Data Modeling** to establish relationships between data sources  
+- **Custom Columns & DAX Measures** for detailed analysis  
+- **Captivating Visual Analysis** including charts and KPIs  
+- **Thoughtful Background Design** tailored for the Handmade Chocolate Company  
+- **User-Friendly Layout** to engage technical and non-technical stakeholders  
 
 ## 🚀 Usage Instructions:
 - **Download** the `.pbix` file from this repository.
